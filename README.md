@@ -1,17 +1,19 @@
-🗣️ Forum Website
-An interactive forum web application built with (e.g. React/Node.js, Django/Flask, or Laravel/Vue etc.), enabling users to browse programming categories, create discussion threads, and engage with other users in a community-driven Q&A environment.
+<h1>🗣️ Forum Website</h1>
+<em><p>An interactive forum web application built with (e.g. React/Node.js, Django/Flask, or Laravel/Vue etc.), enabling users to browse programming categories, create discussion threads, and engage with other users in a community-driven Q&A environment.</p></em>
 
 
-Logged out view: browse topics, sign up/login
+<p>Logged out view: browse topics, sign up/login</p>
 
-🔍 Features
-Browse by Category: Users can select from programming categories (e.g., Flutter, Python, Bootstrap, Java, PHP, AngularJS) and view threads in each category.
+<h2>🔍 Features</h2>
+<ul>
+<li>Browse by Category: Users can select from programming categories (e.g., Flutter, Python, Bootstrap, Java, PHP, AngularJS) and view threads in each category.</li>
 
-Authentication:
+<ul>Authentication:
 
-Guests can browse categories and view threads.
+<li>Guests can browse categories and view threads.</li>
 
-Registered users can sign up, log in, log out (with feedback messages like “logout successfully!”), and post new threads or replies.
+<li>Registered users can sign up, log in, log out (with feedback messages like “logout successfully!”), and post new threads or replies.</li>
+</ul>
 
 Post Discussions: Authenticated users can submit a subject and detailed message to start a discussion thread.
 
@@ -20,6 +22,7 @@ View Queries: Threads show the author name and message. Users can scroll to view
 Search: A global search bar to find threads across all categories.
 
 Responsive UI: Clean, mobile-friendly layout inspired by Bootstrap or a CSS framework.
+</ul>
 
 🧩 Tech Stack
 | Layer          | Technology                                                                       |
