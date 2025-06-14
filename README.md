@@ -44,10 +44,11 @@ Prerequisites
 <li>Git</li>
 </ul>
 
-1. Installation
-  Clone the repo
-  git clone https://github.com/Sayan-AdhikaryM10/Forum_Websit.git
-  cd forum-website
+<h2>1. Installation</h2>
+  <p>Clone the repo</p>
+  <code>git clone https://github.com/Sayan-AdhikaryM10/Forum_Websit.git<br>
+  cd forum-website<br>
+  </code>
 
 2.Install dependencies
   PHP / Laravel example:
