@@ -8,20 +8,20 @@
 <ul>
 <li>Browse by Category: Users can select from programming categories (e.g., Flutter, Python, Bootstrap, Java, PHP, AngularJS) and view threads in each category.</li>
 
-<ul>Authentication:
+<li><ul>Authentication:
 
 <li>Guests can browse categories and view threads.</li>
 
 <li>Registered users can sign up, log in, log out (with feedback messages like “logout successfully!”), and post new threads or replies.</li>
-</ul>
+</ul></li>
 
-Post Discussions: Authenticated users can submit a subject and detailed message to start a discussion thread.
+<li>Post Discussions: Authenticated users can submit a subject and detailed message to start a discussion thread.</li>
 
-View Queries: Threads show the author name and message. Users can scroll to view queries, replies, and multiple posts by the same user.
+<li>View Queries: Threads show the author name and message. Users can scroll to view queries, replies, and multiple posts by the same user.</li>
 
-Search: A global search bar to find threads across all categories.
+<li>Search: A global search bar to find threads across all categories.</li>
 
-Responsive UI: Clean, mobile-friendly layout inspired by Bootstrap or a CSS framework.
+<li>Responsive UI: Clean, mobile-friendly layout inspired by Bootstrap or a CSS framework.</li>
 </ul>
 
 🧩 Tech Stack
