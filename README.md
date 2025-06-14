@@ -46,8 +46,8 @@ Prerequisites
 
 <h2>1. Installation</h2>
   <p>Clone the repo</p>
-  <code>git clone https://github.com/Sayan-AdhikaryM10/Forum_Websit.git<br>
-  cd forum-website<br>
+  <code>git clone https://github.com/Sayan-AdhikaryM10/Forum_Websit.git
+        cd forum-website
   </code>
 
 2.Install dependencies
