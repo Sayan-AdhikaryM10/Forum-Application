@@ -36,13 +36,13 @@
 
 
 
-🚀 Getting Started
+<h2>🚀 Getting Started</h2>
 Prerequisites
-
-> PHP installed
-> Database (MySQL/PostgreSQL/MongoDB)
-> Git
-
+<ul>
+<li>PHP installed</li>
+<li>Database (MySQL/PostgreSQL/MongoDB)</li>
+<li>Git</li>
+</ul>
 
 1. Installation
   Clone the repo
