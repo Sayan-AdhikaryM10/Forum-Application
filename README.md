@@ -49,11 +49,11 @@ Prerequisites
   <code>git clone https://github.com/Sayan-AdhikaryM10/Forum_Websit.git
   cd forum-website</code>
 
-2.Install dependencies
-  PHP / Laravel example:
-  composer install
+<h2>2.Install dependencies</h2>
+  <p>PHP / Laravel example:</p>
+ <code>composer install
   php artisan migrate
-  php artisan serve
+  php artisan serve</code> 
 
 
 3. Configure environment variables
