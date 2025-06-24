@@ -1,0 +1,31 @@
+{
+    "cSpell.words": [
+        "Adhikary",
+        "catdesc",
+        "catid",
+        "catname",
+        "cencern",
+        "cpassword",
+        "crsip",
+        "dbconnect",
+        "Emailalreadyexists",
+        "existsql",
+        "Invalidcredentials",
+        "loggedin",
+        "loginhandle",
+        "loginsuccessfull",
+        "noresult",
+        "Passwordnotmatch",
+        "postedby",
+        "registersuccess",
+        "registersuccessfull",
+        "signuphandle",
+        "thdesc",
+        "thid",
+        "threadid",
+        "threadlist",
+        "thtitle",
+        "thuser",
+        "thuserid"
+    ]
+}
