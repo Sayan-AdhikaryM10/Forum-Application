@@ -98,14 +98,14 @@ Navigate to `http://localhost:PORT/` to explore the app.
 
 ## 📸 Screenshots
 
-![Screenshot 1](screenshorts/1.png)
-![Screenshot 2](screenshorts/2.png)
-![Screenshot 3](screenshorts/3.png)
-![Screenshot 4](screenshorts/4.png)
-![Screenshot 5](screenshorts/5.png)
-![Screenshot 6](screenshorts/6.png)
-![Screenshot 7](screenshorts/7.png)
-![Screenshot 8](screenshorts/8.png)
+![Screenshot 1](Forum/screenshorts/1.png)
+![Screenshot 2](Forum/screenshorts/2.png)
+![Screenshot 3](Forum/screenshorts/3.png)
+![Screenshot 4](Forum/screenshorts/4.png)
+![Screenshot 5](Forum/screenshorts/5.png)
+![Screenshot 6](Forum/screenshorts/6.png)
+![Screenshot 7](Forum/screenshorts/7.png)
+![Screenshot 8](Forum/screenshorts/8.png)
 
 ## 🎯 To-Do & Future Enhancements
 
@@ -132,4 +132,4 @@ Distributed under the MIT License. See LICENSE for details.
 
 **Maintainer**: Sayan Adhikary  
 **Email**: sayanadhikary831@gmail.com  
-**Portfolio**: []()
+**Portfolio**: [https://sayanadhikary.free.nf/](https://sayanadhikary.free.nf/)
