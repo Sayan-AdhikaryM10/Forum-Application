@@ -8,7 +8,7 @@ if(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
 }
     
  echo       '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="/Forum/Forum">Forum</a>
+            <a class="navbar-brand" href="/Forum-Application/Forum/Forum">Forum</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -16,7 +16,7 @@ if(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="/Forum/Forum/index.php">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/Forum-Application/Forum/index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
 
                  <li class="nav-item dropdown">
@@ -36,10 +36,10 @@ if(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
                  </li> 
 
                     <li class="nav-item active">
-                        <a class="nav-link" href="/Forum/Forum/assets/about.php">About Us<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/Forum-Application/Forum/assets/about.php">About Us<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="/Forum/Forum/assets/contact.php">Contact Us<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/Forum-Application/Forum/assets/contact.php">Contact Us<span class="sr-only">(current)</span></a>
                     </li>
                 
                 
